@@ -1,0 +1,21 @@
+.main{
+    width: 100%;
+    height: calc(100vh - 100px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.card{
+    width: 50%;
+    justify-content: center;
+    border-radius: 10px;
+
+}
+
+
+
+
